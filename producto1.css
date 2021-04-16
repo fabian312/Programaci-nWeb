@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background: url(img/imagen1.jpg);   
+    background-size: cover;
+    background-position: center;
+
+    
+}
+#product {
+    
+    margin: 70px 0px 0px 50px;
+    padding-left: 0%;
+    float: left 200px;
+    border: silver 10px solid;
+    border-image-source: url("tablas/dorado.png");
+    border-image-slice: 21;
+    
+   
+
+}
+
+#texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: 30px;
+    color: blanchedalmond;
+    font-size: 20px;
+    position: absolute; top: 15%; right: 500px;
+}
+
+#titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: 30px;
+    color: blanchedalmond;
+    font-size: 20px;
+    
+}
+#precio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: 30px;
+    color: blanchedalmond;
+    font-size: 20px;
+    position: absolute;
+
+}
+#btn{
+    background-color: #e7e7e7; color: black;
+    font-size: 12px;
+    border-radius: 12px;
+    
+
+
+
+
+}
+ 
